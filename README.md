@@ -68,3 +68,4 @@ MERN-Blog/
 │
 │── README.md             # Project documentation
 │── package.json          # Dependencies
+# mern-blog
